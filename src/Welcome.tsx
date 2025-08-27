@@ -2,7 +2,7 @@ export default function Welcome() {
   return (
     <main className="h-screen flex justify-center align-center">
       <div className="flex flex-col justify-center gap-10">
-        <h1 className="text-7xl">
+        <h1 className="text-5xl md:text-7xl">
           Make language <br /> teaching{" "}
           <span className="text-orange-500 underline text-shadow-xs text-shadow-orange-200">
             easier!
